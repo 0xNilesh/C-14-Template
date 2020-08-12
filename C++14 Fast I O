@@ -1,3 +1,4 @@
+// Fast I/O Template
 #include <bits/stdc++.h>
 #define get getchar_unlocked
 #define put putchar_unlocked
